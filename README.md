@@ -1,7 +1,8 @@
 🎓 Sistema de Gestão de Matrículas — AutoRenovação com Pagamento Recorrente
-📄 Descrição
-Este projeto implementa a funcionalidade de AutoRenovação de Matrícula com Pagamento Recorrente via Cartão de Crédito. O objetivo é automatizar o processo de renovação de matrícula para alunos adimplentes, utilizando o mesmo cartão de crédito previamente cadastrado.
 
+📄 Descrição
+
+Este projeto implementa a funcionalidade de AutoRenovação de Matrícula com Pagamento Recorrente via Cartão de Crédito. O objetivo é automatizar o processo de renovação de matrícula para alunos adimplentes, utilizando o mesmo cartão de crédito previamente cadastrado.
 Essa funcionalidade facilita a permanência dos alunos nos cursos sem interrupções, otimizando a experiência do usuário e a receita recorrente da instituição.
 
 🚀 Funcionalidades
