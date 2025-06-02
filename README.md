@@ -5,6 +5,7 @@ Este projeto implementa a funcionalidade de AutoRenovação de Matrícula com Pa
 Essa funcionalidade facilita a permanência dos alunos nos cursos sem interrupções, otimizando a experiência do usuário e a receita recorrente da instituição.
 
 🚀 Funcionalidades
+
 ✅ Auto-renovação de matrícula para alunos com pagamentos em dia.
 
 ✅ Pagamento recorrente automático utilizando cartão de crédito já cadastrado.
